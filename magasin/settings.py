@@ -27,6 +27,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+STRIPE_SECRET_KEY="heaven"
+STRIPE_PUBLISHABLE_KEY="hell"
+
 
 # Application definition
 
